@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40418.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITD.RLVD", "ViolationDetection\ITD.RLVD.csproj", "{DEAB58E7-6BFB-4683-B0D1-025CBAFA1348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITD.CaptureFxCam", "CaptureFxCam\ITD.CaptureFxCam.csproj", "{7B245616-C841-496D-9595-BA94FBA9012C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAB58E7-6BFB-4683-B0D1-025CBAFA1348}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAB58E7-6BFB-4683-B0D1-025CBAFA1348}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{DEAB58E7-6BFB-4683-B0D1-025CBAFA1348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAB58E7-6BFB-4683-B0D1-025CBAFA1348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B245616-C841-496D-9595-BA94FBA9012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B245616-C841-496D-9595-BA94FBA9012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B245616-C841-496D-9595-BA94FBA9012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B245616-C841-496D-9595-BA94FBA9012C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
